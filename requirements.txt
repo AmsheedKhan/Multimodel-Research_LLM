@@ -1,0 +1,8 @@
+streamlit
+requests
+arxiv
+beautifulsoup4
+huggingface_hub
+google-generativeai
+pillow
+tiktoken
